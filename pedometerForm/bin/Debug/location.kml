@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+   <Placemark>
+      <name>Your Location</name>
+      <Point>
+         <coordinates>13.655614256858826,56.34275571181703</coordinates>
+      </Point>
+   </Placemark>
+</kml>

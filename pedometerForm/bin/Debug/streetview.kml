@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+   <gx:Tour>
+      <name>Your Location</name>
+      <gx:Playlist>
+         <gx:FlyTo>
+            <gx:duration>0.4102521409843121</gx:duration>
+            <gx:flyToMode>smooth</gx:flyToMode>
+            <Camera>
+               <gx:ViewerOptions>
+                  <gx:option name="streetview" />
+               </gx:ViewerOptions>
+               <longitude>13.655614256858826</longitude>
+               <latitude>56.34275571181703</latitude>
+               <tilt>91.03494795962899</tilt>
+               <altitudeMode>relativeToGround</altitudeMode>
+               <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+            </Camera>
+         </gx:FlyTo>
+      </gx:Playlist>
+   </gx:Tour>
+</kml>
